@@ -1,0 +1,12 @@
+C:\Users\Raihan Nishat\source\repos\Bit++\Bit++\bin\Debug\netcoreapp3.1\Bit++.exe
+C:\Users\Raihan Nishat\source\repos\Bit++\Bit++\bin\Debug\netcoreapp3.1\Bit++.deps.json
+C:\Users\Raihan Nishat\source\repos\Bit++\Bit++\bin\Debug\netcoreapp3.1\Bit++.runtimeconfig.json
+C:\Users\Raihan Nishat\source\repos\Bit++\Bit++\bin\Debug\netcoreapp3.1\Bit++.runtimeconfig.dev.json
+C:\Users\Raihan Nishat\source\repos\Bit++\Bit++\bin\Debug\netcoreapp3.1\Bit++.dll
+C:\Users\Raihan Nishat\source\repos\Bit++\Bit++\bin\Debug\netcoreapp3.1\Bit++.pdb
+C:\Users\Raihan Nishat\source\repos\Bit++\Bit++\obj\Debug\netcoreapp3.1\Bit++.AssemblyInfoInputs.cache
+C:\Users\Raihan Nishat\source\repos\Bit++\Bit++\obj\Debug\netcoreapp3.1\Bit++.AssemblyInfo.cs
+C:\Users\Raihan Nishat\source\repos\Bit++\Bit++\obj\Debug\netcoreapp3.1\Bit++.csproj.CoreCompileInputs.cache
+C:\Users\Raihan Nishat\source\repos\Bit++\Bit++\obj\Debug\netcoreapp3.1\Bit++.dll
+C:\Users\Raihan Nishat\source\repos\Bit++\Bit++\obj\Debug\netcoreapp3.1\Bit++.pdb
+C:\Users\Raihan Nishat\source\repos\Bit++\Bit++\obj\Debug\netcoreapp3.1\Bit++.genruntimeconfig.cache
