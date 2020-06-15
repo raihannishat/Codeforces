@@ -1,0 +1,13 @@
+C:\Users\Raihan Nishat\source\repos\TheatreSquare\TheatreSquare\bin\Debug\netcoreapp3.1\TheatreSquare.exe
+C:\Users\Raihan Nishat\source\repos\TheatreSquare\TheatreSquare\bin\Debug\netcoreapp3.1\TheatreSquare.deps.json
+C:\Users\Raihan Nishat\source\repos\TheatreSquare\TheatreSquare\bin\Debug\netcoreapp3.1\TheatreSquare.runtimeconfig.json
+C:\Users\Raihan Nishat\source\repos\TheatreSquare\TheatreSquare\bin\Debug\netcoreapp3.1\TheatreSquare.runtimeconfig.dev.json
+C:\Users\Raihan Nishat\source\repos\TheatreSquare\TheatreSquare\bin\Debug\netcoreapp3.1\TheatreSquare.dll
+C:\Users\Raihan Nishat\source\repos\TheatreSquare\TheatreSquare\bin\Debug\netcoreapp3.1\TheatreSquare.pdb
+C:\Users\Raihan Nishat\source\repos\TheatreSquare\TheatreSquare\obj\Debug\netcoreapp3.1\TheatreSquare.csprojAssemblyReference.cache
+C:\Users\Raihan Nishat\source\repos\TheatreSquare\TheatreSquare\obj\Debug\netcoreapp3.1\TheatreSquare.AssemblyInfoInputs.cache
+C:\Users\Raihan Nishat\source\repos\TheatreSquare\TheatreSquare\obj\Debug\netcoreapp3.1\TheatreSquare.AssemblyInfo.cs
+C:\Users\Raihan Nishat\source\repos\TheatreSquare\TheatreSquare\obj\Debug\netcoreapp3.1\TheatreSquare.csproj.CoreCompileInputs.cache
+C:\Users\Raihan Nishat\source\repos\TheatreSquare\TheatreSquare\obj\Debug\netcoreapp3.1\TheatreSquare.dll
+C:\Users\Raihan Nishat\source\repos\TheatreSquare\TheatreSquare\obj\Debug\netcoreapp3.1\TheatreSquare.pdb
+C:\Users\Raihan Nishat\source\repos\TheatreSquare\TheatreSquare\obj\Debug\netcoreapp3.1\TheatreSquare.genruntimeconfig.cache
