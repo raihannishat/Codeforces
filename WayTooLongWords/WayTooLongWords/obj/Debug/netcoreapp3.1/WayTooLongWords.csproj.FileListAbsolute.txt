@@ -1,0 +1,13 @@
+C:\Users\Raihan Nishat\source\repos\WayTooLongWords\WayTooLongWords\bin\Debug\netcoreapp3.1\WayTooLongWords.exe
+C:\Users\Raihan Nishat\source\repos\WayTooLongWords\WayTooLongWords\bin\Debug\netcoreapp3.1\WayTooLongWords.deps.json
+C:\Users\Raihan Nishat\source\repos\WayTooLongWords\WayTooLongWords\bin\Debug\netcoreapp3.1\WayTooLongWords.runtimeconfig.json
+C:\Users\Raihan Nishat\source\repos\WayTooLongWords\WayTooLongWords\bin\Debug\netcoreapp3.1\WayTooLongWords.runtimeconfig.dev.json
+C:\Users\Raihan Nishat\source\repos\WayTooLongWords\WayTooLongWords\bin\Debug\netcoreapp3.1\WayTooLongWords.dll
+C:\Users\Raihan Nishat\source\repos\WayTooLongWords\WayTooLongWords\bin\Debug\netcoreapp3.1\WayTooLongWords.pdb
+C:\Users\Raihan Nishat\source\repos\WayTooLongWords\WayTooLongWords\obj\Debug\netcoreapp3.1\WayTooLongWords.csprojAssemblyReference.cache
+C:\Users\Raihan Nishat\source\repos\WayTooLongWords\WayTooLongWords\obj\Debug\netcoreapp3.1\WayTooLongWords.AssemblyInfoInputs.cache
+C:\Users\Raihan Nishat\source\repos\WayTooLongWords\WayTooLongWords\obj\Debug\netcoreapp3.1\WayTooLongWords.AssemblyInfo.cs
+C:\Users\Raihan Nishat\source\repos\WayTooLongWords\WayTooLongWords\obj\Debug\netcoreapp3.1\WayTooLongWords.csproj.CoreCompileInputs.cache
+C:\Users\Raihan Nishat\source\repos\WayTooLongWords\WayTooLongWords\obj\Debug\netcoreapp3.1\WayTooLongWords.dll
+C:\Users\Raihan Nishat\source\repos\WayTooLongWords\WayTooLongWords\obj\Debug\netcoreapp3.1\WayTooLongWords.pdb
+C:\Users\Raihan Nishat\source\repos\WayTooLongWords\WayTooLongWords\obj\Debug\netcoreapp3.1\WayTooLongWords.genruntimeconfig.cache
